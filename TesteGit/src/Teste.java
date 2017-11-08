@@ -1,6 +1,6 @@
 /**
  * 
- * @author ALUNO
+ * @author BIANCA
  *
  */
 public class Teste {
