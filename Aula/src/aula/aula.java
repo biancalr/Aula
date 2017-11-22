@@ -12,8 +12,14 @@ public class aula {
 
 	}
 	
+
 	public void funcionalidade() {
-		
+		System.out.println("nova funcionalidade");
+	}
+
+	public void feature() {
+
+		System.out.println("New feature");
 	}
 
 }
