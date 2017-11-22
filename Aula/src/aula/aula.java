@@ -27,4 +27,7 @@ public class aula {
 		System.out.println("New feature");
 	}
 
+	public int num() {
+		return 4;
+	}
 }
